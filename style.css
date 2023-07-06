@@ -57,3 +57,19 @@
     border: none;
     border-radius: 4px;
 }
+.about-conteiner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10px;
+
+}
+.about-title {
+    text-align: center;
+    padding-top:20px ;
+    padding-bottom: 20px;
+}
+.title2{
+    font-size: 38px;
+}
