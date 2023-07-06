@@ -73,3 +73,49 @@
 .title2{
     font-size: 38px;
 }
+.box{
+    width: 250px;
+    height: 300px;
+    box-shadow:5px 5px 50px  gray ;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 4px;
+}
+.icon{
+    width: 130px;
+    padding: 20px;
+    margin: 10px;
+}
+.h2-title{
+    font-size: 28px;
+    padding: 10px;
+
+
+}
+.service-button {
+    background-color: gray;
+    margin-top: 10px;
+}
+.p-paragraph{
+    /* font-size: 17px; */
+    text-align: justify;
+    padding: 6px;
+}
+.service-conteiner{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.service-conteiner1{
+    height: 55vh;
+    background-image: url(Images/background.png),
+    linear-gradient(45deg, rgb(8,8,8),#101010 );
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title3{
+    color: aliceblue;
+}
